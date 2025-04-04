@@ -1,0 +1,87 @@
+[
+  {
+    "module": "Core Functionality",
+    "submodules": [
+      {
+        "title": "On-chain Treasury System",
+        "description": "A decentralized treasury that allows members to pool funds securely on the blockchain, ensuring transparency and traceability of all transactions.",
+        "selected": true
+      },
+      {
+        "title": "Staking Mechanism",
+        "description": "Enables proposal submitters to stake an amount equal to or greater than the requested funds, ensuring accountability and reducing the risk of misuse.",
+        "selected": true
+      },
+      {
+        "title": "Proposal-Based Funding",
+        "description": "A structured process where community members can submit funding proposals that are voted on by the community, fostering democratic decision-making.",
+        "selected": true
+      },
+      {
+        "title": "Slashing Mechanism",
+        "description": "A safety feature that penalizes misuse of funds by returning the staked amount to the treasury if a proposal is reported and deemed misused.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Governance & Voting",
+    "submodules": [
+      {
+        "title": "Community Voting System",
+        "description": "A secure and transparent voting mechanism that allows members to vote on funding proposals, ensuring that all voices are heard in the decision-making process.",
+        "selected": true
+      },
+      {
+        "title": "Role-Based Permissions",
+        "description": "Utilizes verified identities to assign roles and permissions, ensuring that only authorized members can submit proposals or vote, enhancing security and trust.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Identity Verification",
+    "submodules": [
+      {
+        "title": "On-Chain Identity Verification",
+        "description": "Integrates with Self Protocol to verify user identities on-chain, ensuring that all participants are legitimate and reducing the risk of fraud.",
+        "selected": true
+      },
+      {
+        "title": "Verified User Profiles",
+        "description": "Maintains a database of verified users, allowing for trust and accountability within the community, as only verified members can submit proposals.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Integrations",
+    "submodules": [
+      {
+        "title": "GitHub Integration",
+        "description": "Facilitates collaboration by linking project repositories, allowing community members to track project progress and contribute to discussions directly from GitHub.",
+        "selected": true
+      },
+      {
+        "title": "Discord Integration",
+        "description": "Enhances community engagement by integrating with Discord, providing real-time updates on proposals, voting, and treasury status, fostering a collaborative environment.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "User Interface & Dashboard",
+    "submodules": [
+      {
+        "title": "Real-Time Dashboard",
+        "description": "A user-friendly interface that visualizes proposals, fund flow, and voting statistics, allowing members to easily track the status of community initiatives.",
+        "selected": true
+      },
+      {
+        "title": "Modular Structure",
+        "description": "Designed to accommodate various types of organizations, including DAOs, NGOs, and grant committees, providing flexibility in how funds are managed and allocated.",
+        "selected": true
+      }
+    ]
+  }
+]
